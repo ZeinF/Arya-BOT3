@@ -9,7 +9,7 @@ Ketik di *[TERMUX]*
 3) $pkg install imagemagick
 4) $pkg install nodejs
 
-Untuk Githubnya..
+Untuk Githubnya Asli..
 5) $git clone https://github.com/Arya274/Arya-BOT3
 6) $ls
 7) $cd Arya-BOT3
@@ -20,8 +20,8 @@ Penginstalannya cuy :)
 9) node index.js
 
 _Bisa kalian liat tutorialnya di_
-*Youtube kami:*
-https://www.youtube.com/c/DrawlNag
+*Youtube Developer:*
+https://www.youtube.com/c/Erpan1140
 `.trim(), m)
 }
 handler.help = ['tutorial']

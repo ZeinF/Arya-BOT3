@@ -86,10 +86,10 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╰═══════════════
 
 ╭════•›「 Sosmed 」
-╿ Github :
-╿ https://github.com/Arya274/Arya-BOT3
-╿ Youtube : Drawl Nag
-╿ Instagram : @arpunchs
+╿ Instagram :
+╿ Owner : @fardany._
+╿ Admin : @xiro_tadashi
+╿ Admin : 1 Slot Lagi! Mau?
 ╰═══════════════
 
 ╭════•›「 Rules 」
